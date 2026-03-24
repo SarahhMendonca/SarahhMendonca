@@ -1,15 +1,15 @@
 # Oii, eu sou a Sarah Mendonça! 👋
 
-### 🚀 Estudante de Desenvolvimento de Sistemas @ SENAI
+### 🚀 Estudante de Desenvolvimento de Sistemas no @ SENAI
 
-Sou uma entusiasta de tecnologia em busca de aprendizado contínuo. Atualmente, foco em construir as bases sólidas do desenvolvimento de software através do curso técnico no SENAI, transformando café em código e problemas em soluções digitais.
+Sou uma apaixonada por tecnologia em busca de aprendizado contínuo. Atualmente, foco em construir as bases sólidas do desenvolvimento de software através do curso técnico no SENAI, transformando entusiasmo em códigos e problemas em soluções digitais.
 
 ---
 
 ### 🛠️ No que estou trabalhando:
 - 🎓 Cursando **Técnico em Desenvolvimento de Sistemas** no SENAI.
-- 💻 Explorando lógica de programação e arquitetura de software.
-- 🎨 Criando interfaces modernas e responsivas.
+- 💻 Explorando lógica as profundidades do Excel.
+- 🎨 Aprendendo a liderar e trabalhar melhor em grupo.
 - Estudando Inglês
 
 ### 🧰 Minha Caixa de Ferramentas:
