@@ -1,19 +1,25 @@
-# Oii, eu sou a Sarah Mendonça! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=header"/>
 
+# Oii, eu sou a Sarah Mendonça! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 ### 🚀 Estudante de Desenvolvimento de Sistemas no @ SENAI
 
-Sou uma apaixonada por tecnologia em busca de aprendizado contínuo. Atualmente, foco em construir as bases sólidas do desenvolvimento de software através do curso técnico no SENAI, transformando entusiasmo em códigos e problemas em soluções digitais.
+Gosto muito tecnologia e busco aprendizado e evolução contínua. Atualmente, foco em construir conhecimento com o curso técnico do SENAI, transformando entusiasmo em códigos e problemas em soluções digitais.
+
+<img height="100px" src="https://i.imgur.com/FhMqZ30.gif">
 
 ---
 
-### 🛠️ No que estou trabalhando:
+
+---
+### 🛠️ No que estou me especializando:
 - 🎓 Cursando **Técnico em Desenvolvimento de Sistemas** no SENAI.
-- 💻 Explorando lógica as profundidades do Excel.
+- 💻 Explorando as lógicas e profundidades do Excel.
 - 🎨 Aprendendo a liderar e trabalhar melhor em grupo.
-- Estudando Inglês
+- 📚 Estudando Inglês.
 
 ### 🧰 Minha Caixa de Ferramentas:
 ![Minhas Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode,mysql&theme=dark)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=footer"/>
 
 ---
 
