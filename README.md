@@ -3,7 +3,7 @@
 # Oii, eu sou a Sarah Mendonça! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 ### 🚀 Estudante de Desenvolvimento de Sistemas no @ SENAI
 
-Gosto muito tecnologia e busco aprendizado e evolução contínua. Atualmente, foco em construir conhecimento com o curso técnico do SENAI, transformando entusiasmo em códigos e problemas em soluções digitais.
+Gosto muito de tecnologia e busco aprendizado e evolução contínua. Atualmente, foco em construir conhecimento com o curso técnico do SENAI, transformando entusiasmo em códigos e problemas em soluções digitais.
 
 <img height="100px" src="https://i.imgur.com/FhMqZ30.gif">
 
